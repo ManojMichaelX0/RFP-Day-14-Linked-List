@@ -44,5 +44,36 @@ namespace Day_14_Linked_List_Practice_Problems
                 }
             }
         }
+        internal Node InsertAtParticulatPosition(int pos, int data)
+        {
+            if (pos < 1)
+                Console.WriteLine("invalid Position");
+            if (pos == 1)
+            {
+                var newNode = new Node(data);
+                newNode.next = this.head;
+                head = newNode;
+            }
+            else
+            {
+                while (pos-- != null)
+                {
+                    if (pos == 1)
+                    {
+                        Node node = new Node(data);
+                        node.next = this.head.next;
+                        head.next = node;
+                        break;
+                    }
+                    head = head.next;
+                }
+                if (pos != 1)
+                {
+                    Console.WriteLine("Position out of range");
+                }
+
+            }
+            return head;
+        }
     }
 }

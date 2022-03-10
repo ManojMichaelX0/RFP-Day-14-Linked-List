@@ -7,13 +7,13 @@ namespace Day_14_Linked_List_Practice_Problems
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Linkedlist : operations");
-            LinkedList list = new LinkedList();
-            list.Add(56);
-            int a = list.Search(56);
-            list.InsertAtParticulatPosition(a+1,30);
-            int b = list.Search(30);
-            list.InsertAtParticulatPosition(b + 1, 70);
-            list.Display();
+            //LinkedList list = new LinkedList();
+            //list.Add(56);
+            //int a = list.Search(56);
+            //list.InsertAtParticulatPosition(a+1,30);
+            //int b = list.Search(30);
+            //list.InsertAtParticulatPosition(b + 1, 70);
+            //list.Display();
             //Console.WriteLine("Popping first Element in List");
             //list.PoP_First_element();
             //list.Display();
@@ -29,6 +29,13 @@ namespace Day_14_Linked_List_Practice_Problems
             //Console.WriteLine("index position of element 40 is :" + b);
             //list.PoP_Paricular_element(3);
             //list.Display();
+            SortedLinkedList sl = new SortedLinkedList();
+            sl.Add(56);
+            sl.Add(30);
+            sl.Add(40);
+            sl.Add(70);
+            sl.Display();
+
 
         }
     }

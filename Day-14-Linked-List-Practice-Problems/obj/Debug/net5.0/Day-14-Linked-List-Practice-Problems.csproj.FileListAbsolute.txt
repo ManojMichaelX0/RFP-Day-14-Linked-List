@@ -1,0 +1,16 @@
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\bin\Debug\net5.0\Day-14-Linked-List-Practice-Problems.exe
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\bin\Debug\net5.0\Day-14-Linked-List-Practice-Problems.deps.json
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\bin\Debug\net5.0\Day-14-Linked-List-Practice-Problems.runtimeconfig.json
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\bin\Debug\net5.0\Day-14-Linked-List-Practice-Problems.runtimeconfig.dev.json
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\bin\Debug\net5.0\Day-14-Linked-List-Practice-Problems.dll
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\bin\Debug\net5.0\Day-14-Linked-List-Practice-Problems.pdb
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\obj\Debug\net5.0\Day-14-Linked-List-Practice-Problems.csproj.AssemblyReference.cache
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\obj\Debug\net5.0\Day-14-Linked-List-Practice-Problems.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\obj\Debug\net5.0\Day-14-Linked-List-Practice-Problems.AssemblyInfoInputs.cache
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\obj\Debug\net5.0\Day-14-Linked-List-Practice-Problems.AssemblyInfo.cs
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\obj\Debug\net5.0\Day-14-Linked-List-Practice-Problems.csproj.CoreCompileInputs.cache
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\obj\Debug\net5.0\Day-14-Linked-List-Practice-Problems.dll
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\obj\Debug\net5.0\refint\Day-14-Linked-List-Practice-Problems.dll
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\obj\Debug\net5.0\Day-14-Linked-List-Practice-Problems.pdb
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\obj\Debug\net5.0\Day-14-Linked-List-Practice-Problems.genruntimeconfig.cache
+D:\.net\Day-14-Linked-List-Practice-Problems\Day-14-Linked-List-Practice-Problems\obj\Debug\net5.0\ref\Day-14-Linked-List-Practice-Problems.dll

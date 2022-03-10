@@ -6,6 +6,7 @@ namespace Day_14_Linked_List_Practice_Problems
     {
         static void Main(string[] args)
         {
+            //UseCase 1 and 2 
             Console.WriteLine("Welcome to Linkedlist : operations");
             LinkedList list = new LinkedList();
             list.Add(56);
